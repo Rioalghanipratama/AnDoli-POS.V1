@@ -235,7 +235,7 @@ export default function App() {
         "lg:relative lg:w-20 lg:h-screen lg:flex-col lg:py-8 lg:border-r-2 lg:justify-start lg:gap-12" // Desktop
       )}>
         <div className="hidden lg:flex w-10 h-10 border-2 border-forma-bg items-center justify-center text-xl font-black mb-12">
-          L
+          80
         </div>
 
         <div className="flex flex-row lg:flex-col lg:flex-1 items-center gap-6 lg:gap-6">
